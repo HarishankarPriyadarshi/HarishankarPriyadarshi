@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harishankar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 💬 Ask me about **HTML , CSS , Javascript , React.js , Node.js , Express.js , MongoDb , PostgreSQL , MySQL , C++ , OOPS , DSA , Operating System , DBMS ,Git , Github , Postman,**
+- 💬 Ask me about **HTML , CSS , Javascript , Typescript , React.js , Angular.js , Node.js , Express.js , MongoDb , PostgreSQL , MySQL , ReactAnimation , C++ , OOPS , DSA , Operating System , DBMS ,Git , Github , Postman,**
 
 - 📫 How to reach me **harishankarkumar2p@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harishankar-priyadarshi-a92a8b212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harishankar-priyadarshi-a92a8b212/" height="30" width="40" /></a>
 </p>
