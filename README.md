@@ -16,9 +16,9 @@
   <a href="https://www.linkedin.com/in/harishankar-kumar-ram-a92a8b212/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <!-- <a href="https://harishankarportfolio423.netlify.app/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" />
-  </a> -->
+  <a href='https://harishankarportfolio423.netlify.app/' target="blank">
+        <img align="center" src="https://png.pngtree.com/png-vector/20231018/ourmid/pngtree-business-portfolio-3d-character-illustration-png-image_10204177.png" alt="Portfolio - harishankar" height="30" width="40" />
+    </a>
 </p>
 
 ---
